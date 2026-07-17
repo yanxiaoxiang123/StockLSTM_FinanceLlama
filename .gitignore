@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+test_output/
+backtest_results/
+mg/
+*.pkl
+*.pth
